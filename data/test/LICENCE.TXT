@@ -1,0 +1,6 @@
+© 2009-2018 ReversingLabs International GmbH
+Unpublished and not distributed to the public.
+This unpublished material is proprietary and confidential to ReversingLabs International GmbH. All rights reserved.  Reproduction or distribution, in whole or in part, is forbidden except by express written permission of ReversingLabs International GmbH.
+ReversingLabs International GmbH does not endorse or accept any responsibility for the content of the samples. Therefore, you are downloading samples at your own risk. We are not liable for any loss or damage which may arise from the use of downloaded samples.
+
+Do not run samples, not even in debugger, use only tools for static analysis.
